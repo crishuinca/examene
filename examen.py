@@ -31,6 +31,6 @@ while True:
         else:
             print("ERROR. La opción tiene que ser entre 1 y 5!")
             time.sleep(2)
-    except:
+    except :
         print("ERROR! OPCION INVALIDA")
         time.sleep(2)
